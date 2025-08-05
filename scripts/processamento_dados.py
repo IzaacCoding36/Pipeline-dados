@@ -9,12 +9,14 @@ class Dados:
         self.qtd_linhas = self.__size_data()
 
 
+    @staticmethod
     def __leitura_json(path):
         dados_json = []
         with open(path, 'r') as file:
             dados_json = json.load(file)
         return dados_json
 
+    @staticmethod
     def __leitura_csv(path):
 
         dados_csv = []
@@ -55,6 +57,7 @@ class Dados:
     def __size_data(self):
         return len(self.dados)
 
+    @staticmethod
     def join(dadosA, dadosB):
         combined_list = []
         combined_list.extend(dadosA.dados)
