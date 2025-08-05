@@ -1,6 +1,10 @@
-# Pipeline-dados
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=17&pause=1000&color=FF9400&background=0C1831&center=true&vCenter=true&width=1000&height=100&lines=Pipeline+de+Dados;Python;Jupyter+Notebook)](https://git.io/typing-svg)
 
-**Esse repositório apresenta uma pipeline de dados utilizando Python e Jupyter Notebook, utilizado no curso de data science da [Alura](https://alura.com.br).**
+---
+
+# Pipeline de Dados
+
+**Esse repositório apresenta uma pipeline de dados utilizando Python e Jupyter Notebook, utilizado em um projeto de Data Science**
 
 ## Descrição
 
